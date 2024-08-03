@@ -60,6 +60,6 @@ models/
     busquedas.js
 package.json
 README.md
+```
 
 ![image](https://github.com/user-attachments/assets/e0ab3058-10fa-436c-964a-bdf216de2028)
-
