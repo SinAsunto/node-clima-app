@@ -10,7 +10,7 @@ Este proyecto es una aplicación de línea de comandos que proporciona informaci
     ```
 2. Navega hasta la carpeta del proyecto:
     ```bash
-    cd Curso_Node_ClimaApp
+    cd node-clima-app
     ```
 3. Ejecuta el siguiente comando para instalar las dependencias:
     ```bash
@@ -60,3 +60,6 @@ models/
     busquedas.js
 package.json
 README.md
+
+![image](https://github.com/user-attachments/assets/e0ab3058-10fa-436c-964a-bdf216de2028)
+
